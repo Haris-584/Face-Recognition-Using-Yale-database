@@ -1,5 +1,5 @@
 # Face Recognition Using Yale Database
-
+Two different Deep Learning networks are used to perform face recognition using yale face database. 
 
 
 

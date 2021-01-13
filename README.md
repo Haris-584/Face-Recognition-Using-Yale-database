@@ -1,6 +1,13 @@
 # Face Recognition Using Yale Database
-Two different Deep Learning networks are used to perform face recognition using yale face database. 
-
+Following Deep Learning models are used perform face recognition using yale face database. 
+1.  Lenet
+2.  Vggnet
+3.  Alexnet
+4.  Densenet
+5.  Resnet
+6.  ResNext
+7.  EfficientNet
+8.  Residual Network
 
 
 # Dataset

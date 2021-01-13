@@ -9,6 +9,12 @@ Following Deep Learning models are used perform face recognition using yale face
 7.  EfficientNet
 8.  Residual Network
 
+## Performance Evaluation
+1.  Accuracy 
+2.  Precision
+3.  Recall
+4.  F1 Score
+5.  Comparison Plot
 
 # Dataset
 The extended Yale Face Database B contains 16128 images of 28 human subjects
